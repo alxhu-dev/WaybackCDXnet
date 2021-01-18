@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaybackCDXnet", "WaybackCDXnet\WaybackCDXnet.csproj", "{1EB10550-F756-45AB-A855-7D3FE5D81B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB10550-F756-45AB-A855-7D3FE5D81B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB10550-F756-45AB-A855-7D3FE5D81B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB10550-F756-45AB-A855-7D3FE5D81B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB10550-F756-45AB-A855-7D3FE5D81B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B0CBD13-0398-4B4E-96AD-6990CF7C85F6}
+	EndGlobalSection
+EndGlobal
